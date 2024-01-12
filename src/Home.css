@@ -1,0 +1,8 @@
+.home-background {
+    background-image: url('../src/assets/images/Home.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
